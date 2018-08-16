@@ -12,11 +12,23 @@ body {
 }
 
 #gamename {
-	font-size: 80px;
 	font-family: 'Marcellus SC', serif;
 	text-align: center;
  	text-shadow: -1px 0 #E3DAC9, 0 1px #E3DAC9, 1px 0 #E3DAC9, 0 -1px #E3DAC9;
 }
+
+#centered-behave {
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	color: white;
+}
+
+.header-behave {
+	padding-top: 17%;
+	background-color: inherit;
+}
+
 
 .padding-top {
 	padding-top: 30px;
